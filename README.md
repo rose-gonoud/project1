@@ -7,6 +7,7 @@ Rose Gonoud
 Our Project is to uncover patterns in the effects that the legalization of weed has on overall crime. 
 
 We will choose 3 legalized cities and 3 non legal cities.
+
     Legal Cities:
         Portland, OR
         Colorado Springs, CO
