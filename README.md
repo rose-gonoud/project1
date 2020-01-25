@@ -13,7 +13,7 @@ We will choose 3 legalized cities and 3 non legal cities.
         Colorado Springs, CO
         Riverside, CA
 
-    Non-Legal Cities of comparable size
+    Non-Legal Cities:
         New York, NY
         Fort Worth, TX
         Norfolk, VI
