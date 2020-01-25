@@ -4,7 +4,7 @@ Spencer LaFarge
 Harmony Mosby
 Rose Gonoud
 
-Our Project is to uncover patterns in the effects that the legalization of weed has on overall crime. 
+Our Project is to uncover patterns in the effects that the legalization of weed has on violent crime. 
 
 We will choose 3 legalized cities and 3 non legal cities.
 
