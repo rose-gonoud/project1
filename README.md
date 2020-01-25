@@ -26,6 +26,7 @@ In each city we will examine pre and post legalization for a comparison.
    3. Another research question here based on what the data shows us!
 
 Possible Sources of Data would be...
+
     Wikipedia for State information
     Crime Database of Cities chosen
 
