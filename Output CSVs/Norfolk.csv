@@ -1,311 +1,287 @@
-﻿"name,type,variable,value,year,crime_type"
-"Norfolk, Virginia,place,rate,42.561967152692155,2007,Forcible rape"
-"Norfolk, Virginia,place,rate,743.2986840892836,2007,Burglary"
-"Norfolk, Virginia,place,rate,21.061591993084775,2007,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,count,28.0,2013,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,count,776.0,2009,Aggravated assault"
-"Norfolk, Virginia,place,rate,3918.8827015276497,2008,Larceny"
-"Norfolk, Virginia,place,count,1115.0,2008,Motor vehicle theft"
-"Norfolk, Virginia,place,rate,43.38634691212564,2009,Forcible rape"
-"Norfolk, Virginia,place,count,12195.0,2008,Property crime"
-"Norfolk, Virginia,place,count,28349.0,2008,All Crimes"
-"Norfolk, Virginia,place,rate,9908.088458288012,2013,All Crimes"
-"Norfolk, Virginia,place,count,100.0,2006,Forcible rape"
-"Norfolk, Virginia,place,count,414.0,2013,Robbery"
-"Norfolk, Virginia,place,count,21943.0,2014,All Crimes"
-"Norfolk, Virginia,place,rate,12.546645188968663,2014,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,rate,30.5744324366192,2012,Forcible rape"
-"Norfolk, Virginia,place,rate,327.83246395123496,2006,Aggravated assault"
-"Norfolk, Virginia,place,count,1418.0,2013,Violent crime"
-"Norfolk, Virginia,place,count,787.0,2008,Aggravated assault"
-"Norfolk, Virginia,place,count,869.0,2007,Aggravated assault"
-"Norfolk, Virginia,place,rate,404.66819768980565,2006,Robbery"
-"Norfolk, Virginia,place,rate,11580.852535152351,2006,All Crimes"
-"Norfolk, Virginia,place,count,31.0,2014,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,rate,42.686518743650375,2006,Forcible rape"
-"Norfolk, Virginia,place,rate,921.8282785134558,2010,Burglary"
-"Norfolk, Virginia,place,rate,4305.4250320375895,2010,Larceny"
-"Norfolk, Virginia,place,count,1924.0,2007,Violent crime"
-"Norfolk, Virginia,place,count,86.0,2008,Forcible rape"
-"Norfolk, Virginia,place,count,767.0,2013,Motor vehicle theft"
-"Norfolk, Virginia,place,rate,8881.001141339982,2014,All Crimes"
-"Norfolk, Virginia,place,count,785.0,2011,Motor vehicle theft"
-"Norfolk, Virginia,place,rate,3751.261680721519,2011,Larceny"
-"Norfolk, Virginia,place,count,97.0,2007,Forcible rape"
-"Norfolk, Virginia,place,rate,3237.324254052721,2013,Larceny"
-"Norfolk, Virginia,place,count,10812.0,2013,Property crime"
-"Norfolk, Virginia,place,rate,844.2188123894814,2007,Violent crime"
-"Norfolk, Virginia,place,count,735.0,2014,Aggravated assault"
-"Norfolk, Virginia,place,rate,4987.065984820674,2006,Property crime"
-"Norfolk, Virginia,place,rate,579.5591443362745,2011,Violent crime"
-"Norfolk, Virginia,place,count,75.0,2012,Forcible rape"
-"Norfolk, Virginia,place,rate,297.47691012554736,2014,Aggravated assault"
-"Norfolk, Virginia,place,rate,340.47302297182006,2013,Aggravated assault"
-"Norfolk, Virginia,place,count,8797.0,2007,Larceny"
-"Norfolk, Virginia,place,count,1312.0,2014,Burglary"
-"Norfolk, Virginia,place,count,922.0,2010,Motor vehicle theft"
-"Norfolk, Virginia,place,rate,824.4946482654881,2013,Burglary"
-"Norfolk, Virginia,place,count,9032.0,2006,Larceny"
-"Norfolk, Virginia,place,count,38.0,2011,Arson"
-"Norfolk, Virginia,place,rate,10.118262249168279,2014,Arson"
-"Norfolk, Virginia,place,rate,32.44175424517429,2006,Arson"
-"Norfolk, Virginia,place,count,9679.0,2014,Property crime"
-"Norfolk, Virginia,place,rate,0.0,2013,Rape (legacy definition)"
-"Norfolk, Virginia,place,rate,450.63031201870973,2007,Motor vehicle theft"
-"Norfolk, Virginia,place,rate,14.523707817172149,2010,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,rate,5187.882603683205,2008,Property crime"
-"Norfolk, Virginia,place,count,596.0,2010,Robbery"
-"Norfolk, Virginia,place,rate,573.3856847672694,2013,Violent crime"
-"Norfolk, Virginia,place,rate,23.644227750985518,2012,Arson"
-"Norfolk, Virginia,place,rate,446.6811589887138,2008,Robbery"
-"Norfolk, Virginia,place,rate,158.6543520669586,2014,Robbery"
-"Norfolk, Virginia,place,rate,829.9761344637913,2008,Violent crime"
-"Norfolk, Virginia,place,count,28.0,2006,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,count,1332.0,2012,Violent crime"
-"Norfolk, Virginia,place,count,768.0,2006,Aggravated assault"
-"Norfolk, Virginia,place,rate,393.8487825715506,2010,Motor vehicle theft"
-"Norfolk, Virginia,place,count,34.0,2012,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,rate,203.57943645326577,2014,Motor vehicle theft"
-"Norfolk, Virginia,place,count,34.0,2009,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,count,26920.0,2007,All Crimes"
-"Norfolk, Virginia,place,rate,14.462115637375211,2009,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,count,10079.0,2010,Larceny"
-"Norfolk, Virginia,place,rate,334.79816392773125,2008,Aggravated assault"
-"Norfolk, Virginia,place,rate,655.8994797891934,2009,Violent crime"
-"Norfolk, Virginia,place,rate,319.490118190994,2011,Motor vehicle theft"
-"Norfolk, Virginia,place,rate,4988.9297691531265,2011,Property crime"
-"Norfolk, Virginia,place,rate,918.1779702406146,2011,Burglary"
-"Norfolk, Virginia,place,count,1424.0,2011,Violent crime"
-"Norfolk, Virginia,place,rate,442.6591993716544,2006,Motor vehicle theft"
-"Norfolk, Virginia,place,count,48.0,2007,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,rate,309.6967108073473,2010,Aggravated assault"
-"Norfolk, Virginia,place,count,122.0,2014,Rape (revised definition)"
-"Norfolk, Virginia,place,rate,54.18454284824689,2013,Rape (revised definition)"
-"Norfolk, Virginia,place,count,2078.0,2009,Burglary"
-"Norfolk, Virginia,place,rate,12498.077744553608,2010,All Crimes"
-"Norfolk, Virginia,place,count,1614.0,2006,Burglary"
-"Norfolk, Virginia,place,count,13159.0,2010,Property crime"
-"Norfolk, Virginia,place,count,27130.0,2006,All Crimes"
-"Norfolk, Virginia,place,count,1050.0,2008,Robbery"
-"Norfolk, Virginia,place,rate,381.30257170813906,2007,Aggravated assault"
-"Norfolk, Virginia,place,count,29006.0,2009,All Crimes"
-"Norfolk, Virginia,place,count,28.0,2008,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,rate,12337.886064050157,2009,All Crimes"
-"Norfolk, Virginia,place,rate,15.465763683130922,2011,Arson"
-"Norfolk, Virginia,place,rate,280.41871520203165,2011,Aggravated assault"
-"Norfolk, Virginia,place,rate,4216.1320646371505,2009,Larceny"
-"Norfolk, Virginia,place,count,9912.0,2009,Larceny"
-"Norfolk, Virginia,place,count,1542.0,2009,Violent crime"
-"Norfolk, Virginia,place,count,725.0,2010,Aggravated assault"
-"Norfolk, Virginia,place,rate,3182.800573098373,2014,Larceny"
-"Norfolk, Virginia,place,count,910.0,2007,Robbery"
-"Norfolk, Virginia,place,rate,3425.5594101988154,2012,Larceny"
-"Norfolk, Virginia,place,count,491.0,2012,Robbery"
-"Norfolk, Virginia,place,count,392.0,2014,Robbery"
-"Norfolk, Virginia,place,count,625.0,2011,Robbery"
-"Norfolk, Virginia,place,rate,330.07652160597536,2009,Aggravated assault"
-"Norfolk, Virginia,place,rate,5504.111069048095,2009,Property crime"
-"Norfolk, Virginia,place,rate,11152.443590661936,2011,All Crimes"
-"Norfolk, Virginia,place,count,2256.0,2011,Burglary"
-"Norfolk, Virginia,place,count,8006.0,2013,Larceny"
-"Norfolk, Virginia,place,rate,4643.644798473723,2012,Property crime"
-"Norfolk, Virginia,place,rate,617.2575822298163,2010,Violent crime"
-"Norfolk, Virginia,place,count,12258.0,2011,Property crime"
-"Norfolk, Virginia,place,count,1445.0,2010,Violent crime"
-"Norfolk, Virginia,place,count,50.0,2010,Arson"
-"Norfolk, Virginia,place,count,11518.0,2007,Property crime"
-"Norfolk, Virginia,place,count,29258.0,2010,All Crimes"
-"Norfolk, Virginia,place,rate,36.5853139743137,2008,Forcible rape"
-"Norfolk, Virginia,place,rate,4371.964755785413,2013,Property crime"
-"Norfolk, Virginia,place,count,1027.0,2007,Motor vehicle theft"
-"Norfolk, Virginia,place,rate,49.3771197759412,2014,Rape (revised definition)"
-"Norfolk, Virginia,place,rate,24.24840577367304,2008,Arson"
-"Norfolk, Virginia,place,count,2158.0,2010,Burglary"
-"Norfolk, Virginia,place,rate,883.8904792489909,2009,Burglary"
-"Norfolk, Virginia,place,count,42.0,2009,Arson"
-"Norfolk, Virginia,place,count,948.0,2006,Robbery"
-"Norfolk, Virginia,place,rate,10396.937664847148,2012,All Crimes"
-"Norfolk, Virginia,place,rate,17.387577182646393,2013,Arson"
-"Norfolk, Virginia,place,count,9217.0,2011,Larceny"
-"Norfolk, Virginia,place,count,25.0,2014,Arson"
-"Norfolk, Virginia,place,rate,15.79619399481358,2007,Arson"
-"Norfolk, Virginia,place,count,1844.0,2006,Violent crime"
-"Norfolk, Virginia,place,rate,296.3681650856288,2012,Motor vehicle theft"
-"Norfolk, Virginia,place,count,503.0,2014,Motor vehicle theft"
-"Norfolk, Virginia,place,rate,11.32214328172323,2013,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,rate,5621.102093122598,2010,Property crime"
-"Norfolk, Virginia,place,count,12940.0,2009,Property crime"
-"Norfolk, Virginia,place,count,27402.0,2011,All Crimes"
-"Norfolk, Virginia,place,rate,11.802819652915705,2011,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,count,1951.0,2008,Violent crime"
-"Norfolk, Virginia,place,count,102.0,2009,Forcible rape"
-"Norfolk, Virginia,place,rate,12059.965882067669,2008,All Crimes"
-"Norfolk, Virginia,place,rate,921.7172231892804,2012,Burglary"
-"Norfolk, Virginia,place,rate,11.952225248222106,2006,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,rate,794.6670523723026,2008,Burglary"
-"Norfolk, Virginia,place,rate,404.08852516195435,2009,Motor vehicle theft"
-"Norfolk, Virginia,place,rate,32.96649627193696,2011,Forcible rape"
-"Norfolk, Virginia,place,count,36.0,2007,Arson"
-"Norfolk, Virginia,place,rate,11812.042842788378,2007,All Crimes"
-"Norfolk, Virginia,place,rate,5053.904512007302,2007,Property crime"
-"Norfolk, Virginia,place,rate,531.0064028363513,2014,Burglary"
-"Norfolk, Virginia,place,rate,38.44510892780863,2010,Forcible rape"
-"Norfolk, Virginia,place,count,2261.0,2012,Burglary"
-"Norfolk, Virginia,place,count,11391.0,2012,Property crime"
-"Norfolk, Virginia,place,count,90.0,2010,Forcible rape"
-"Norfolk, Virginia,place,rate,3917.3864123879907,2014,Property crime"
-"Norfolk, Virginia,place,count,1037.0,2006,Motor vehicle theft"
-"Norfolk, Virginia,place,count,732.0,2012,Aggravated assault"
-"Norfolk, Virginia,place,rate,688.9604125225171,2006,Burglary"
-"Norfolk, Virginia,place,count,630.0,2009,Robbery"
-"Norfolk, Virginia,place,rate,399.29268153556546,2007,Robbery"
-"Norfolk, Virginia,place,rate,13.860409371267373,2012,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,rate,3859.975515899308,2007,Larceny"
-"Norfolk, Virginia,place,count,57.0,2008,Arson"
-"Norfolk, Virginia,place,rate,267.97449563371714,2009,Robbery"
-"Norfolk, Virginia,place,count,43.0,2013,Arson"
-"Norfolk, Virginia,place,count,950.0,2009,Motor vehicle theft"
-"Norfolk, Virginia,place,count,34.0,2010,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,rate,310.1458534672042,2013,Motor vehicle theft"
-"Norfolk, Virginia,place,count,76.0,2006,Arson"
-"Norfolk, Virginia,place,rate,11.911497573032369,2008,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,count,842.0,2013,Aggravated assault"
-"Norfolk, Virginia,place,rate,543.001920074357,2012,Violent crime"
-"Norfolk, Virginia,place,count,25504.0,2012,All Crimes"
-"Norfolk, Virginia,place,rate,17.864966375581144,2009,Arson"
-"Norfolk, Virginia,place,rate,254.59205467748825,2010,Robbery"
-"Norfolk, Virginia,place,rate,298.4064605814034,2012,Aggravated assault"
-"Norfolk, Virginia,place,rate,200.16061768506702,2012,Robbery"
-"Norfolk, Virginia,place,rate,3855.446372926502,2006,Larceny"
-"Norfolk, Virginia,place,count,8403.0,2012,Larceny"
-"Norfolk, Virginia,place,rate,787.139405632913,2006,Violent crime"
-"Norfolk, Virginia,place,count,29.0,2011,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,rate,254.37111320939013,2011,Robbery"
-"Norfolk, Virginia,place,count,689.0,2011,Aggravated assault"
-"Norfolk, Virginia,place,count,134.0,2013,Rape (revised definition)"
-"Norfolk, Virginia,place,count,81.0,2011,Forcible rape"
-"Norfolk, Virginia,place,rate,167.4059756654792,2013,Robbery"
-"Norfolk, Virginia,place,count,58.0,2012,Arson"
-"Norfolk, Virginia,place,count,1694.0,2007,Burglary"
-"Norfolk, Virginia,place,count,727.0,2012,Motor vehicle theft"
-"Norfolk, Virginia,place,count,11683.0,2006,Property crime"
-"Norfolk, Virginia,place,count,,2013,Rape (legacy definition)"
-"Norfolk, Virginia,place,count,1280.0,2014,Violent crime"
-"Norfolk, Virginia,place,rate,21.358393848782576,2010,Arson"
-"Norfolk, Virginia,place,count,2039.0,2013,Burglary"
-"Norfolk, Virginia,place,count,7864.0,2014,Larceny"
-"Norfolk, Virginia,place,count,1868.0,2008,Burglary"
-"Norfolk, Virginia,place,rate,518.0550271574158,2014,Violent crime"
-"Norfolk, Virginia,place,count,9212.0,2008,Larceny"
-"Norfolk, Virginia,place,count,24503.0,2013,All Crimes"
-"Norfolk, Virginia,place,rate,474.33284978325327,2008,Motor vehicle theft"
-"Norfolk, Virginia,place,rate,11.409942950285249,2015,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,rate,11.409942950285249,2015,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,rate,3222.183336453238,2016,Larceny"
-"Norfolk, Virginia,place,rate,447.0252648736756,2015,Burglary"
-"Norfolk, Virginia,place,rate,447.0252648736756,2015,Burglary"
-"Norfolk, Virginia,place,rate,11.409942950285249,2015,Arson"
-"Norfolk, Virginia,place,rate,11.409942950285249,2015,Arson"
-"Norfolk, Virginia,place,count,22486.0,2016,All Crimes"
-"Norfolk, Virginia,place,count,28.0,2015,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,count,28.0,2015,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,count,28.0,2015,Arson"
-"Norfolk, Virginia,place,count,28.0,2015,Arson"
-"Norfolk, Virginia,place,count,7518.0,2015,Larceny"
-"Norfolk, Virginia,place,count,7518.0,2015,Larceny"
-"Norfolk, Virginia,place,rate,9150.544898141894,2016,All Crimes"
-"Norfolk, Virginia,place,rate,53.30967631666761,2016,Rape (revised definition)"
-"Norfolk, Virginia,place,rate,8.138881880407268,2016,Arson"
-"Norfolk, Virginia,place,rate,474.08986953372346,2016,Burglary"
-"Norfolk, Virginia,place,rate,3913.581352193836,2016,Property crime"
-"Norfolk, Virginia,place,count,454.0,2015,Robbery"
-"Norfolk, Virginia,place,count,454.0,2015,Robbery"
-"Norfolk, Virginia,place,rate,44.009779951100256,2015,Rape (revised definition)"
-"Norfolk, Virginia,place,rate,44.009779951100256,2015,Rape (revised definition)"
-"Norfolk, Virginia,place,rate,157.70171149144255,2015,Motor vehicle theft"
-"Norfolk, Virginia,place,rate,157.70171149144255,2015,Motor vehicle theft"
-"Norfolk, Virginia,place,count,1097.0,2015,Burglary"
-"Norfolk, Virginia,place,count,1097.0,2015,Burglary"
-"Norfolk, Virginia,place,rate,386.5968893193452,2016,Aggravated assault"
-"Norfolk, Virginia,place,count,534.0,2016,Motor vehicle theft"
-"Norfolk, Virginia,place,count,108.0,2015,Rape (revised definition)"
-"Norfolk, Virginia,place,count,108.0,2015,Rape (revised definition)"
-"Norfolk, Virginia,place,rate,185.0040749796251,2015,Robbery"
-"Norfolk, Virginia,place,rate,185.0040749796251,2015,Robbery"
-"Norfolk, Virginia,place,count,1329.0,2015,Violent crime"
-"Norfolk, Virginia,place,count,1329.0,2015,Violent crime"
-"Norfolk, Virginia,place,rate,541.5647921760391,2015,Violent crime"
-"Norfolk, Virginia,place,rate,541.5647921760391,2015,Violent crime"
-"Norfolk, Virginia,place,count,950.0,2016,Aggravated assault"
-"Norfolk, Virginia,place,rate,657.6216559369074,2016,Violent crime"
-"Norfolk, Virginia,place,rate,8431.132844335778,2015,All Crimes"
-"Norfolk, Virginia,place,rate,8431.132844335778,2015,All Crimes"
-"Norfolk, Virginia,place,count,739.0,2015,Aggravated assault"
-"Norfolk, Virginia,place,count,739.0,2015,Aggravated assault"
-"Norfolk, Virginia,place,rate,217.30814620687408,2016,Motor vehicle theft"
-"Norfolk, Virginia,place,rate,18.719428324936718,2016,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,count,7918.0,2016,Larceny"
-"Norfolk, Virginia,place,count,1165.0,2016,Burglary"
-"Norfolk, Virginia,place,count,46.0,2016,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,count,387.0,2015,Motor vehicle theft"
-"Norfolk, Virginia,place,count,387.0,2015,Motor vehicle theft"
-"Norfolk, Virginia,place,count,20.0,2016,Arson"
-"Norfolk, Virginia,place,count,131.0,2016,Rape (revised definition)"
-"Norfolk, Virginia,place,count,9002.0,2015,Property crime"
-"Norfolk, Virginia,place,count,9002.0,2015,Property crime"
-"Norfolk, Virginia,place,rate,301.1409942950285,2015,Aggravated assault"
-"Norfolk, Virginia,place,rate,301.1409942950285,2015,Aggravated assault"
-"Norfolk, Virginia,place,rate,3668.2966585167073,2015,Property crime"
-"Norfolk, Virginia,place,rate,3668.2966585167073,2015,Property crime"
-"Norfolk, Virginia,place,rate,3063.569682151589,2015,Larceny"
-"Norfolk, Virginia,place,rate,3063.569682151589,2015,Larceny"
-"Norfolk, Virginia,place,rate,198.99566197595774,2016,Robbery"
-"Norfolk, Virginia,place,count,9617.0,2016,Property crime"
-"Norfolk, Virginia,place,count,489.0,2016,Robbery"
-"Norfolk, Virginia,place,count,1616.0,2016,Violent crime"
-"Norfolk, Virginia,place,count,20690.0,2015,All Crimes"
-"Norfolk, Virginia,place,count,20690.0,2015,All Crimes"
-"Norfolk, Virginia,place,rate,3748.929401688487,2017,Property crime"
-"Norfolk, Virginia,place,count,135.0,2017,Rape (revised definition)"
-"Norfolk, Virginia,place,rate,14.682491129328275,2017,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,count,9192.0,2017,Property crime"
-"Norfolk, Virginia,place,rate,555.8954280354012,2017,Violent crime"
-"Norfolk, Virginia,place,rate,151.31122802724414,2017,Robbery"
-"Norfolk, Virginia,place,count,36.0,2017,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,rate,55.05934173498103,2017,Rape (revised definition)"
-"Norfolk, Virginia,place,count,1363.0,2017,Violent crime"
-"Norfolk, Virginia,place,rate,3.2627758065173946,2017,Arson"
-"Norfolk, Virginia,place,rate,471.4711040417635,2017,Burglary"
-"Norfolk, Virginia,place,count,821.0,2017,Aggravated assault"
-"Norfolk, Virginia,place,rate,2984.624169011787,2017,Larceny"
-"Norfolk, Virginia,place,count,266308.0,2017,All Crimes"
-"Norfolk, Virginia,place,rate,334.84236714384764,2017,Aggravated assault"
-"Norfolk, Virginia,place,count,371.0,2017,Robbery"
-"Norfolk, Virginia,place,rate,108612.91243525427,2017,All Crimes"
-"Norfolk, Virginia,place,rate,292.8341286349362,2017,Motor vehicle theft"
-"Norfolk, Virginia,place,count,718.0,2017,Motor vehicle theft"
-"Norfolk, Virginia,place,count,7318.0,2017,Larceny"
-"Norfolk, Virginia,place,count,1156.0,2017,Burglary"
-"Norfolk, Virginia,place,count,8.0,2017,Arson"
-"Norfolk, Virginia,place,count,1134.0,2018,Violent crime"
-"Norfolk, Virginia,place,rate,464.0940956917825,2018,Violent crime"
-"Norfolk, Virginia,place,count,36.0,2018,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,rate,14.733145894977223,2018,Murder and nonnegligent manslaughter"
-"Norfolk, Virginia,place,count,788.0,2018,Motor vehicle theft"
-"Norfolk, Virginia,place,rate,322.49219347894586,2018,Motor vehicle theft"
-"Norfolk, Virginia,place,count,117.0,2018,Rape (revised definition)"
-"Norfolk, Virginia,place,rate,47.88272415867598,2018,Rape (revised definition)"
-"Norfolk, Virginia,place,count,321.0,2018,Robbery"
-"Norfolk, Virginia,place,rate,131.37055089688022,2018,Robbery"
-"Norfolk, Virginia,place,count,6972.0,2018,Larceny"
-"Norfolk, Virginia,place,rate,2853.3192549939226,2018,Larceny"
-"Norfolk, Virginia,place,count,14.0,2018,Arson"
-"Norfolk, Virginia,place,rate,5.729556736935588,2018,Arson"
-"Norfolk, Virginia,place,count,703.0,2018,Burglary"
-"Norfolk, Virginia,place,rate,287.70559900469414,2018,Burglary"
-"Norfolk, Virginia,place,count,8463.0,2018,Property crime"
-"Norfolk, Virginia,place,rate,3463.5170474775628,2018,Property crime"
-"Norfolk, Virginia,place,count,660.0,2018,Aggravated assault"
-"Norfolk, Virginia,place,rate,270.10767474124907,2018,Aggravated assault"
-"Norfolk, Virginia,place,rate,107860.95184307564,2018,All Crimes"
-"Norfolk, Virginia,place,count,263555.0,2018,All Crimes"
+name,type,variable,value,year,crime_type,key,id,place_name
+"Norfolk, Virginia",place,rate,3.262775807,2017,Arson,,,
+"Norfolk, Virginia",place,rate,5.729556737,2018,Arson,,,
+"Norfolk, Virginia",place,count,8,2017,Arson,,,
+"Norfolk, Virginia",place,rate,8.13888188,2016,Arson,,,
+"Norfolk, Virginia",place,rate,10.11826225,2014,Arson,,,
+"Norfolk, Virginia",place,rate,11.32214328,2013,Murder and nonnegligent manslaughter,,,
+"Norfolk, Virginia",place,rate,301.1409943,2015,Aggravated assault,,,
+"Norfolk, Virginia",place,count,739,2015,Aggravated assault,,,
+"Norfolk, Virginia",place,rate,11.80281965,2011,Murder and nonnegligent manslaughter,,,
+"Norfolk, Virginia",place,rate,11.91149757,2008,Murder and nonnegligent manslaughter,,,
+"Norfolk, Virginia",place,rate,11.95222525,2006,Murder and nonnegligent manslaughter,,,
+"Norfolk, Virginia",place,rate,12.54664519,2014,Murder and nonnegligent manslaughter,,,
+"Norfolk, Virginia",place,rate,13.86040937,2012,Murder and nonnegligent manslaughter,,,
+"Norfolk, Virginia",place,count,14,2018,Arson,,,
+"Norfolk, Virginia",place,rate,14.46211564,2009,Murder and nonnegligent manslaughter,,,
+"Norfolk, Virginia",place,rate,14.52370782,2010,Murder and nonnegligent manslaughter,,,
+"Norfolk, Virginia",place,rate,14.68249113,2017,Murder and nonnegligent manslaughter,,,
+"Norfolk, Virginia",place,rate,14.73314589,2018,Murder and nonnegligent manslaughter,,,
+"Norfolk, Virginia",place,rate,15.46576368,2011,Arson,,,
+"Norfolk, Virginia",place,rate,15.79619399,2007,Arson,,,
+"Norfolk, Virginia",place,rate,17.38757718,2013,Arson,,,
+"Norfolk, Virginia",place,rate,17.86496638,2009,Arson,,,
+"Norfolk, Virginia",place,rate,18.71942832,2016,Murder and nonnegligent manslaughter,,,
+"Norfolk, Virginia",place,count,20,2016,Arson,,,
+"Norfolk, Virginia",place,rate,21.06159199,2007,Murder and nonnegligent manslaughter,,,
+"Norfolk, Virginia",place,rate,21.35839385,2010,Arson,,,
+"Norfolk, Virginia",place,rate,23.64422775,2012,Arson,,,
+"Norfolk, Virginia",place,rate,24.24840577,2008,Arson,,,
+"Norfolk, Virginia",place,count,25,2014,Arson,,,
+"Norfolk, Virginia",place,count,28,2006,Murder and nonnegligent manslaughter,,,
+"Norfolk, Virginia",place,count,28,2008,Murder and nonnegligent manslaughter,,,
+"Norfolk, Virginia",place,count,28,2013,Murder and nonnegligent manslaughter,,,
+"Norfolk, Virginia",place,rate,8431.132844,2015,All Crimes,,,
+"Norfolk, Virginia",place,count,20690,2015,All Crimes,,,
+"Norfolk, Virginia",place,count,29,2011,Murder and nonnegligent manslaughter,,,
+"Norfolk, Virginia",place,rate,30.57443244,2012,Forcible rape,,,
+"Norfolk, Virginia",place,count,31,2014,Murder and nonnegligent manslaughter,,,
+"Norfolk, Virginia",place,rate,32.44175425,2006,Arson,,,
+"Norfolk, Virginia",place,rate,32.96649627,2011,Forcible rape,,,
+"Norfolk, Virginia",place,count,34,2009,Murder and nonnegligent manslaughter,,,
+"Norfolk, Virginia",place,count,34,2010,Murder and nonnegligent manslaughter,,,
+"Norfolk, Virginia",place,count,34,2012,Murder and nonnegligent manslaughter,,,
+"Norfolk, Virginia",place,count,36,2007,Arson,,,
+"Norfolk, Virginia",place,count,36,2017,Murder and nonnegligent manslaughter,,,
+"Norfolk, Virginia",place,count,36,2018,Murder and nonnegligent manslaughter,,,
+"Norfolk, Virginia",place,rate,36.58531397,2008,Forcible rape,,,
+"Norfolk, Virginia",place,count,38,2011,Arson,,,
+"Norfolk, Virginia",place,rate,38.44510893,2010,Forcible rape,,,
+"Norfolk, Virginia",place,count,42,2009,Arson,,,
+"Norfolk, Virginia",place,rate,42.56196715,2007,Forcible rape,,,
+"Norfolk, Virginia",place,rate,42.68651874,2006,Forcible rape,,,
+"Norfolk, Virginia",place,count,43,2013,Arson,,,
+"Norfolk, Virginia",place,rate,43.38634691,2009,Forcible rape,,,
+"Norfolk, Virginia",place,rate,11.40994295,2015,Arson,,,
+"Norfolk, Virginia",place,count,46,2016,Murder and nonnegligent manslaughter,,,
+"Norfolk, Virginia",place,rate,47.88272416,2018,Rape (revised definition),,,
+"Norfolk, Virginia",place,count,48,2007,Murder and nonnegligent manslaughter,,,
+"Norfolk, Virginia",place,rate,49.37711978,2014,Rape (revised definition),,,
+"Norfolk, Virginia",place,count,50,2010,Arson,,,
+"Norfolk, Virginia",place,rate,53.30967632,2016,Rape (revised definition),,,
+"Norfolk, Virginia",place,rate,54.18454285,2013,Rape (revised definition),,,
+"Norfolk, Virginia",place,rate,55.05934173,2017,Rape (revised definition),,,
+"Norfolk, Virginia",place,count,57,2008,Arson,,,
+"Norfolk, Virginia",place,count,58,2012,Arson,,,
+"Norfolk, Virginia",place,count,75,2012,Forcible rape,,,
+"Norfolk, Virginia",place,count,76,2006,Arson,,,
+"Norfolk, Virginia",place,count,81,2011,Forcible rape,,,
+"Norfolk, Virginia",place,count,86,2008,Forcible rape,,,
+"Norfolk, Virginia",place,count,90,2010,Forcible rape,,,
+"Norfolk, Virginia",place,count,97,2007,Forcible rape,,,
+"Norfolk, Virginia",place,count,100,2006,Forcible rape,,,
+"Norfolk, Virginia",place,count,102,2009,Forcible rape,,,
+"Norfolk, Virginia",place,count,28,2015,Arson,,,
+"Norfolk, Virginia",place,count,117,2018,Rape (revised definition),,,
+"Norfolk, Virginia",place,count,122,2014,Rape (revised definition),,,
+"Norfolk, Virginia",place,count,131,2016,Rape (revised definition),,,
+"Norfolk, Virginia",place,rate,131.3705509,2018,Robbery,,,
+"Norfolk, Virginia",place,count,134,2013,Rape (revised definition),,,
+"Norfolk, Virginia",place,count,135,2017,Rape (revised definition),,,
+"Norfolk, Virginia",place,rate,151.311228,2017,Robbery,,,
+"Norfolk, Virginia",place,rate,447.0252649,2015,Burglary,,,
+"Norfolk, Virginia",place,rate,158.6543521,2014,Robbery,,,
+"Norfolk, Virginia",place,rate,167.4059757,2013,Robbery,,,
+"Norfolk, Virginia",place,count,1097,2015,Burglary,,,
+"Norfolk, Virginia",place,rate,198.995662,2016,Robbery,,,
+"Norfolk, Virginia",place,rate,200.1606177,2012,Robbery,,,
+"Norfolk, Virginia",place,rate,203.5794365,2014,Motor vehicle theft,,,
+"Norfolk, Virginia",place,rate,217.3081462,2016,Motor vehicle theft,,,
+"Norfolk, Virginia",place,rate,254.3711132,2011,Robbery,,,
+"Norfolk, Virginia",place,rate,254.5920547,2010,Robbery,,,
+"Norfolk, Virginia",place,rate,267.9744956,2009,Robbery,,,
+"Norfolk, Virginia",place,rate,270.1076747,2018,Aggravated assault,,,
+"Norfolk, Virginia",place,rate,280.4187152,2011,Aggravated assault,,,
+"Norfolk, Virginia",place,rate,287.705599,2018,Burglary,,,
+"Norfolk, Virginia",place,rate,292.8341286,2017,Motor vehicle theft,,,
+"Norfolk, Virginia",place,rate,296.3681651,2012,Motor vehicle theft,,,
+"Norfolk, Virginia",place,rate,297.4769101,2014,Aggravated assault,,,
+"Norfolk, Virginia",place,rate,298.4064606,2012,Aggravated assault,,,
+"Norfolk, Virginia",place,rate,3063.569682,2015,Larceny,,,
+"Norfolk, Virginia",place,rate,309.6967108,2010,Aggravated assault,,,
+"Norfolk, Virginia",place,rate,310.1458535,2013,Motor vehicle theft,,,
+"Norfolk, Virginia",place,rate,319.4901182,2011,Motor vehicle theft,,,
+"Norfolk, Virginia",place,count,321,2018,Robbery,,,
+"Norfolk, Virginia",place,rate,322.4921935,2018,Motor vehicle theft,,,
+"Norfolk, Virginia",place,rate,327.832464,2006,Aggravated assault,,,
+"Norfolk, Virginia",place,rate,330.0765216,2009,Aggravated assault,,,
+"Norfolk, Virginia",place,rate,334.7981639,2008,Aggravated assault,,,
+"Norfolk, Virginia",place,rate,334.8423671,2017,Aggravated assault,,,
+"Norfolk, Virginia",place,rate,340.473023,2013,Aggravated assault,,,
+"Norfolk, Virginia",place,count,371,2017,Robbery,,,
+"Norfolk, Virginia",place,rate,381.3025717,2007,Aggravated assault,,,
+"Norfolk, Virginia",place,rate,386.5968893,2016,Aggravated assault,,,
+"Norfolk, Virginia",place,count,7518,2015,Larceny,,,
+"Norfolk, Virginia",place,count,392,2014,Robbery,,,
+"Norfolk, Virginia",place,rate,393.8487826,2010,Motor vehicle theft,,,
+"Norfolk, Virginia",place,rate,399.2926815,2007,Robbery,,,
+"Norfolk, Virginia",place,rate,404.0885252,2009,Motor vehicle theft,,,
+"Norfolk, Virginia",place,rate,404.6681977,2006,Robbery,,,
+"Norfolk, Virginia",place,count,414,2013,Robbery,,,
+"Norfolk, Virginia",place,rate,442.6591994,2006,Motor vehicle theft,,,
+"Norfolk, Virginia",place,rate,446.681159,2008,Robbery,,,
+"Norfolk, Virginia",place,rate,157.7017115,2015,Motor vehicle theft,,,
+"Norfolk, Virginia",place,rate,450.630312,2007,Motor vehicle theft,,,
+"Norfolk, Virginia",place,count,387,2015,Motor vehicle theft,,,
+"Norfolk, Virginia",place,rate,464.0940957,2018,Violent crime,,,
+"Norfolk, Virginia",place,rate,471.471104,2017,Burglary,,,
+"Norfolk, Virginia",place,rate,474.0898695,2016,Burglary,,,
+"Norfolk, Virginia",place,rate,474.3328498,2008,Motor vehicle theft,,,
+"Norfolk, Virginia",place,count,489,2016,Robbery,,,
+"Norfolk, Virginia",place,count,491,2012,Robbery,,,
+"Norfolk, Virginia",place,count,503,2014,Motor vehicle theft,,,
+"Norfolk, Virginia",place,rate,518.0550272,2014,Violent crime,,,
+"Norfolk, Virginia",place,rate,531.0064028,2014,Burglary,,,
+"Norfolk, Virginia",place,count,534,2016,Motor vehicle theft,,,
+"Norfolk, Virginia",place,rate,11.40994295,2015,Murder and nonnegligent manslaughter,,,
+"Norfolk, Virginia",place,rate,543.0019201,2012,Violent crime,,,
+"Norfolk, Virginia",place,rate,555.895428,2017,Violent crime,,,
+"Norfolk, Virginia",place,rate,573.3856848,2013,Violent crime,,,
+"Norfolk, Virginia",place,rate,579.5591443,2011,Violent crime,,,
+"Norfolk, Virginia",place,count,596,2010,Robbery,,,
+"Norfolk, Virginia",place,rate,617.2575822,2010,Violent crime,,,
+"Norfolk, Virginia",place,count,625,2011,Robbery,,,
+"Norfolk, Virginia",place,count,630,2009,Robbery,,,
+"Norfolk, Virginia",place,rate,655.8994798,2009,Violent crime,,,
+"Norfolk, Virginia",place,rate,657.6216559,2016,Violent crime,,,
+"Norfolk, Virginia",place,count,660,2018,Aggravated assault,,,
+"Norfolk, Virginia",place,rate,688.9604125,2006,Burglary,,,
+"Norfolk, Virginia",place,count,689,2011,Aggravated assault,,,
+"Norfolk, Virginia",place,count,703,2018,Burglary,,,
+"Norfolk, Virginia",place,count,718,2017,Motor vehicle theft,,,
+"Norfolk, Virginia",place,count,725,2010,Aggravated assault,,,
+"Norfolk, Virginia",place,count,727,2012,Motor vehicle theft,,,
+"Norfolk, Virginia",place,count,732,2012,Aggravated assault,,,
+"Norfolk, Virginia",place,count,735,2014,Aggravated assault,,,
+"Norfolk, Virginia",place,count,28,2015,Murder and nonnegligent manslaughter,,,
+"Norfolk, Virginia",place,rate,743.2986841,2007,Burglary,,,
+"Norfolk, Virginia",place,count,767,2013,Motor vehicle theft,,,
+"Norfolk, Virginia",place,count,768,2006,Aggravated assault,,,
+"Norfolk, Virginia",place,count,776,2009,Aggravated assault,,,
+"Norfolk, Virginia",place,count,785,2011,Motor vehicle theft,,,
+"Norfolk, Virginia",place,count,787,2008,Aggravated assault,,,
+"Norfolk, Virginia",place,rate,787.1394056,2006,Violent crime,,,
+"Norfolk, Virginia",place,count,788,2018,Motor vehicle theft,,,
+"Norfolk, Virginia",place,rate,794.6670524,2008,Burglary,,,
+"Norfolk, Virginia",place,count,821,2017,Aggravated assault,,,
+"Norfolk, Virginia",place,rate,824.4946483,2013,Burglary,,,
+"Norfolk, Virginia",place,rate,829.9761345,2008,Violent crime,,,
+"Norfolk, Virginia",place,count,842,2013,Aggravated assault,,,
+"Norfolk, Virginia",place,rate,844.2188124,2007,Violent crime,,,
+"Norfolk, Virginia",place,count,869,2007,Aggravated assault,,,
+"Norfolk, Virginia",place,rate,883.8904792,2009,Burglary,,,
+"Norfolk, Virginia",place,count,910,2007,Robbery,,,
+"Norfolk, Virginia",place,rate,918.1779702,2011,Burglary,,,
+"Norfolk, Virginia",place,rate,921.7172232,2012,Burglary,,,
+"Norfolk, Virginia",place,rate,921.8282785,2010,Burglary,,,
+"Norfolk, Virginia",place,count,922,2010,Motor vehicle theft,,,
+"Norfolk, Virginia",place,count,948,2006,Robbery,,,
+"Norfolk, Virginia",place,count,950,2009,Motor vehicle theft,,,
+"Norfolk, Virginia",place,count,950,2016,Aggravated assault,,,
+"Norfolk, Virginia",place,count,1027,2007,Motor vehicle theft,,,
+"Norfolk, Virginia",place,count,1037,2006,Motor vehicle theft,,,
+"Norfolk, Virginia",place,count,1050,2008,Robbery,,,
+"Norfolk, Virginia",place,rate,3668.296659,2015,Property crime,,,
+"Norfolk, Virginia",place,count,1115,2008,Motor vehicle theft,,,
+"Norfolk, Virginia",place,count,1134,2018,Violent crime,,,
+"Norfolk, Virginia",place,count,1156,2017,Burglary,,,
+"Norfolk, Virginia",place,count,1165,2016,Burglary,,,
+"Norfolk, Virginia",place,count,1280,2014,Violent crime,,,
+"Norfolk, Virginia",place,count,1312,2014,Burglary,,,
+"Norfolk, Virginia",place,count,9002,2015,Property crime,,,
+"Norfolk, Virginia",place,count,1332,2012,Violent crime,,,
+"Norfolk, Virginia",place,count,1363,2017,Violent crime,,,
+"Norfolk, Virginia",place,count,1418,2013,Violent crime,,,
+"Norfolk, Virginia",place,count,1424,2011,Violent crime,,,
+"Norfolk, Virginia",place,count,1445,2010,Violent crime,,,
+"Norfolk, Virginia",place,count,1542,2009,Violent crime,,,
+"Norfolk, Virginia",place,count,1614,2006,Burglary,,,
+"Norfolk, Virginia",place,count,1616,2016,Violent crime,,,
+"Norfolk, Virginia",place,count,1694,2007,Burglary,,,
+"Norfolk, Virginia",place,count,1844,2006,Violent crime,,,
+"Norfolk, Virginia",place,count,1868,2008,Burglary,,,
+"Norfolk, Virginia",place,count,1924,2007,Violent crime,,,
+"Norfolk, Virginia",place,count,1951,2008,Violent crime,,,
+"Norfolk, Virginia",place,count,2039,2013,Burglary,,,
+"Norfolk, Virginia",place,count,2078,2009,Burglary,,,
+"Norfolk, Virginia",place,count,2158,2010,Burglary,,,
+"Norfolk, Virginia",place,count,2256,2011,Burglary,,,
+"Norfolk, Virginia",place,count,2261,2012,Burglary,,,
+"Norfolk, Virginia",place,rate,2853.319255,2018,Larceny,,,
+"Norfolk, Virginia",place,rate,2984.624169,2017,Larceny,,,
+"Norfolk, Virginia",place,rate,44.00977995,2015,Rape (revised definition),,,
+"Norfolk, Virginia",place,rate,3182.800573,2014,Larceny,,,
+"Norfolk, Virginia",place,rate,3222.183336,2016,Larceny,,,
+"Norfolk, Virginia",place,rate,3237.324254,2013,Larceny,,,
+"Norfolk, Virginia",place,rate,3425.55941,2012,Larceny,,,
+"Norfolk, Virginia",place,rate,3463.517047,2018,Property crime,,,
+"Norfolk, Virginia",place,count,108,2015,Rape (revised definition),,,
+"Norfolk, Virginia",place,rate,3748.929402,2017,Property crime,,,
+"Norfolk, Virginia",place,rate,3751.261681,2011,Larceny,,,
+"Norfolk, Virginia",place,rate,3855.446373,2006,Larceny,,,
+"Norfolk, Virginia",place,rate,3859.975516,2007,Larceny,,,
+"Norfolk, Virginia",place,rate,3913.581352,2016,Property crime,,,
+"Norfolk, Virginia",place,rate,3917.386412,2014,Property crime,,,
+"Norfolk, Virginia",place,rate,3918.882702,2008,Larceny,,,
+"Norfolk, Virginia",place,rate,4216.132065,2009,Larceny,,,
+"Norfolk, Virginia",place,rate,4305.425032,2010,Larceny,,,
+"Norfolk, Virginia",place,rate,4371.964756,2013,Property crime,,,
+"Norfolk, Virginia",place,rate,4643.644798,2012,Property crime,,,
+"Norfolk, Virginia",place,rate,4987.065985,2006,Property crime,,,
+"Norfolk, Virginia",place,rate,4988.929769,2011,Property crime,,,
+"Norfolk, Virginia",place,rate,5053.904512,2007,Property crime,,,
+"Norfolk, Virginia",place,rate,5187.882604,2008,Property crime,,,
+"Norfolk, Virginia",place,rate,5504.111069,2009,Property crime,,,
+"Norfolk, Virginia",place,rate,5621.102093,2010,Property crime,,,
+"Norfolk, Virginia",place,count,6972,2018,Larceny,,,
+"Norfolk, Virginia",place,count,7318,2017,Larceny,,,
+"Norfolk, Virginia",place,rate,185.004075,2015,Robbery,,,
+"Norfolk, Virginia",place,count,7864,2014,Larceny,,,
+"Norfolk, Virginia",place,count,7918,2016,Larceny,,,
+"Norfolk, Virginia",place,count,8006,2013,Larceny,,,
+"Norfolk, Virginia",place,count,8403,2012,Larceny,,,
+"Norfolk, Virginia",place,count,454,2015,Robbery,,,
+"Norfolk, Virginia",place,count,8463,2018,Property crime,,,
+"Norfolk, Virginia",place,count,8797,2007,Larceny,,,
+"Norfolk, Virginia",place,rate,8881.001141,2014,All Crimes,,,
+"Norfolk, Virginia",place,rate,541.5647922,2015,Violent crime,,,
+"Norfolk, Virginia",place,count,9032,2006,Larceny,,,
+"Norfolk, Virginia",place,rate,9150.544898,2016,All Crimes,,,
+"Norfolk, Virginia",place,count,9192,2017,Property crime,,,
+"Norfolk, Virginia",place,count,9212,2008,Larceny,,,
+"Norfolk, Virginia",place,count,9217,2011,Larceny,,,
+"Norfolk, Virginia",place,count,9617,2016,Property crime,,,
+"Norfolk, Virginia",place,count,9679,2014,Property crime,,,
+"Norfolk, Virginia",place,rate,9908.088458,2013,All Crimes,,,
+"Norfolk, Virginia",place,count,9912,2009,Larceny,,,
+"Norfolk, Virginia",place,count,10079,2010,Larceny,,,
+"Norfolk, Virginia",place,rate,10396.93766,2012,All Crimes,,,
+"Norfolk, Virginia",place,count,10812,2013,Property crime,,,
+"Norfolk, Virginia",place,rate,11152.44359,2011,All Crimes,,,
+"Norfolk, Virginia",place,count,11391,2012,Property crime,,,
+"Norfolk, Virginia",place,count,11518,2007,Property crime,,,
+"Norfolk, Virginia",place,rate,11580.85254,2006,All Crimes,,,
+"Norfolk, Virginia",place,count,11683,2006,Property crime,,,
+"Norfolk, Virginia",place,rate,11812.04284,2007,All Crimes,,,
+"Norfolk, Virginia",place,rate,12059.96588,2008,All Crimes,,,
+"Norfolk, Virginia",place,count,12195,2008,Property crime,,,
+"Norfolk, Virginia",place,count,12258,2011,Property crime,,,
+"Norfolk, Virginia",place,rate,12337.88606,2009,All Crimes,,,
+"Norfolk, Virginia",place,rate,12498.07774,2010,All Crimes,,,
+"Norfolk, Virginia",place,count,12940,2009,Property crime,,,
+"Norfolk, Virginia",place,count,13159,2010,Property crime,,,
+"Norfolk, Virginia",place,count,1329,2015,Violent crime,,,
+"Norfolk, Virginia",place,count,21943,2014,All Crimes,,,
+"Norfolk, Virginia",place,count,22486,2016,All Crimes,,,
+"Norfolk, Virginia",place,count,24503,2013,All Crimes,,,
+"Norfolk, Virginia",place,count,25504,2012,All Crimes,,,
+"Norfolk, Virginia",place,count,26920,2007,All Crimes,,,
+"Norfolk, Virginia",place,count,27130,2006,All Crimes,,,
+"Norfolk, Virginia",place,count,27402,2011,All Crimes,,,
+"Norfolk, Virginia",place,count,28349,2008,All Crimes,,,
+"Norfolk, Virginia",place,count,29006,2009,All Crimes,,,
+"Norfolk, Virginia",place,count,29258,2010,All Crimes,,,
+"Norfolk, Virginia",place,rate,107860.9518,2018,All Crimes,,,
+"Norfolk, Virginia",place,rate,108612.9124,2017,All Crimes,,,
+"Norfolk, Virginia",place,count,263555,2018,All Crimes,,,
+"Norfolk, Virginia",place,count,266308,2017,All Crimes,,,
