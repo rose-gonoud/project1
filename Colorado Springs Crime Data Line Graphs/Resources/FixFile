@@ -1,0 +1,60 @@
+#! /bin/bash
+
+# Clean up Colorado Crime file for processing
+
+INFILE=COcrime.csv
+OUTFILE=CO_crime_processed.csv
+
+# Remove first line of file and save as header
+head -n 1 $INFILE > header
+
+# Remove the header and place the rest of the data in
+# a new temp file.
+
+tail -n +2 $INFILE > data1
+
+# Extract just the rate data, ignoring count
+
+grep rate data1 > data2
+
+# The sed commands could take input from a file and perform actions
+# with one command. Perform actions one at a time to show what is taking
+# place and to allow examining intermediate data if desired.
+
+# Remove line with "Rape (legacy definition)"
+
+sed '/Rape (legacy definition)/d' data2 > data3
+
+# Change "Forcible rape" to "Rape"
+
+sed 's/Forcible rape/Rape/g' data3 > data4
+
+# Change "Rape (revised definition)" to "Rape"
+
+sed 's/Rape (revised definition)/Rape/g' data4 > data5
+
+# Change "Murder and nonnegligent manslaughter" to "Murder-Manslaughter"
+
+sed 's/Murder and nonnegligent manslaughter/Murder-Manslaughter/g' data5 > data6
+
+# Change "Motor vehicle theft" to "MV theft"
+
+sed 's/Motor vehicle theft/MV theft/g' data6 > data7
+
+# See if any duplicates
+COUNT1=`wc -l data7`
+sort -u data7 > data8
+COUNT2=`wc -l data8`
+
+echo "Count of lines before removing duplicates: $COUNT1"
+echo "Count of lines after  removing duplicates: $COUNT2"
+
+# Create outpt file
+
+cat header data8 > $OUTFILE
+
+# Remove temporary files
+
+rm header data1 data2 data3 data4 data5 data6 data7 data8
+
+
